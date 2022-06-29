@@ -48,7 +48,7 @@ function getTriangle(sideA, sideB, sideC) {
                 return 'Ошибка! Треугольник не существует';
             },
             getPerimeter() {
-                return 'Ошибкa! Треугольник не существует';
+                return 'Ошибка! Треугольник не существует';
             }
         };
         return wrongFigure;
