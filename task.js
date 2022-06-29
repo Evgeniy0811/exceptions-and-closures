@@ -54,3 +54,4 @@ function getTriangle(sideA, sideB, sideC) {
         return wrongFigure;
     }
 }
+
